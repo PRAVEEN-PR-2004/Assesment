@@ -30,7 +30,7 @@ public class dfs {
                     st.push(node);
                 }
             }
-            // System.out.print(st);
+
         }
     }
 }
